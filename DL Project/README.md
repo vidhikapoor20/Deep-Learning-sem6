@@ -62,6 +62,14 @@ Takes a dataset as input (excel file)
 
 Gives the required output that satisfies the string in the Flask as well as saves the output in the excel file. 
 
+Example
+
+![image](https://user-images.githubusercontent.com/63549023/113577956-b8a72580-963f-11eb-86b1-cf5c67864d91.png)
+
+The output comes in an excel file.
+Attaching the output here:
+
+[t2.xlsx](https://github.com/vidhikapoor20/Deep-Learning-sem6/files/6258318/t2.xlsx)
 
 
 
