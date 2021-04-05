@@ -1,5 +1,8 @@
 Our project is based on solving the problem of String Matching. In today's world, when data is required everywhere, everyone inputs their data. But often while inputting the data, people use different short forms or spellings or even sometimes there are double entries. Since its a lot of manual labour work to sit and check all these errors and bring into one format, our project solves this error. This problem is faced in almost all the corporate and other offices. Therefore there is a huge need to overcome this. 
 
+HRM IS THE DATASET.
+
+
 In our project, we have used the Fuzzy Wuzzy logic to overcome this problem.
 
 Fuzzy Wuzzy Logic -
